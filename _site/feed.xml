@@ -1,17 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-18T16:38:30+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">SwadishTa</title><subtitle>Some tech, some non-tech. Some expertise, some exploration.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020/06/18/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-06-18T16:02:32+05:30</published><updated>2020-06-18T16:02:32+05:30</updated><id>http://localhost:4000/jekyll/update/2020/06/18/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/18/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-10T13:13:31+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">SwadishTa</title><subtitle>Some tech, some non-tech. Some expertise, some exploration.</subtitle><entry><title type="html">The Good fight</title><link href="http://localhost:4000/companies/learning/2020/11/09/the-good-fight.html" rel="alternate" type="text/html" title="The Good fight" /><published>2020-11-09T16:02:32+05:30</published><updated>2020-11-09T16:02:32+05:30</updated><id>http://localhost:4000/companies/learning/2020/11/09/the-good-fight</id><content type="html" xml:base="http://localhost:4000/companies/learning/2020/11/09/the-good-fight.html">&lt;p&gt;Artoo has shutdown. 6 years of growing up under its influence has added to my value system and life experiences.&lt;/p&gt;
 
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+&lt;p&gt;I have been meaning to write about the experiences for a long time but never could get my narrative device straight. Writing about a lived experience with its multi-layered multi-colored linkages is easy to procrastinate about till it melts away in our consciousness.&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;I am now attempting to unravel this big ball of mud by unspooling threads of gratitude.&lt;/p&gt;
 
-&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;I first came to hear Artoo, the name, through an acquaintance at a health initiative. The website had a young, cheerful presence, and they were looking for Android devs. Professionally I had been about 6 months into android. The interview process was all about relatedness to the purpose, belonging to the team, Sameer also brought in the rigor of persistent curiosity. The place felt different, and i jumped in.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Some strands which made Artoo for me,&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;empathy&quot;&gt;Empathy&lt;/h3&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Empathy for the borrower, the field agent, our employees, and service providers, and self!&lt;/p&gt;
+
+&lt;p&gt;Empathy sounds right, but is it the core of your actions and decisions. When each interaction and its effects matter, the way we design these interactions changes, as does our way of being and so do we. At Artoo, empathy was a lived value and defined interations inside and outside the team.&lt;/p&gt;
+
+&lt;h3 id=&quot;openness-and-ownership&quot;&gt;Openness and Ownership&lt;/h3&gt;
+
+&lt;p&gt;Openness and Autonomy go together, a strand of collaborative decision making is necessary as well. These included off-campus sessions around vision, goals; weekly updates on finances; knowledge sharing sessions; Open office with noisy open meetings. We had our struggles with this, not everything was perfect. If we were to go back i would replace even more ‘but then’s with ‘and’s.&lt;/p&gt;
+
+&lt;p&gt;Ownership was not explicitly defined, but an implicit assumption. This was 2 sided knife, people who could work without structure / designations cut though, and others dragged along blunted. We missed a behavioural rubric during hiring which helped long term trillers succeed.&lt;/p&gt;
+
+&lt;h3 id=&quot;diversity-and-people&quot;&gt;Diversity and People&lt;/h3&gt;
+
+&lt;p&gt;Artoo was always had an underlying thread of diversity, in terms of skills, gender, geography. A slight affirmative hint in our hiring policies added to it. We worked with C-Suites, Middle management, IT departments, Field staff; our internal diversity kept us in good stead.&lt;/p&gt;
+
+&lt;p&gt;Interaction at an individual level was encouraged, enabling the gossip protocol to serve our clients better. Open offices with first come first pick seating might have something to do with this!&lt;/p&gt;
+
+&lt;p&gt;The parties, treks, off-road celebrations will always remain enjoyable memories.&lt;/p&gt;
+
+&lt;h3 id=&quot;curiosity-and-drive&quot;&gt;Curiosity and Drive&lt;/h3&gt;
+
+&lt;p&gt;The nous of the team was hacking things together, we started off onboarding field staff to tech-savvy smartphones and crm software; an offline first cloud solution which worked with an occasional crank; a hardware prototype for fingerprint scanner which was passed over. A team of ~15 people for most of our journey, we got things done.&lt;/p&gt;
+
+&lt;p&gt;As we grew, our curiosity  re-directed towards productivity and efficiency. We iterated on people systems into our sunset.&lt;/p&gt;
+
+&lt;p&gt;Sameer raged against the tide occasionally, with more show-offs, internal hacks. We should have played more, we got distracted growing up.&lt;/p&gt;
+
+&lt;h3 id=&quot;feedback-and-leverage&quot;&gt;Feedback and Leverage&lt;/h3&gt;
+
+&lt;p&gt;As we grew into adolescence our output did not seem to scale up, we started looking more closely at collaboration and feedback. The team level ones like pods, sprints, agile, then org level OKRs and Balanced Scorecard.&lt;/p&gt;
+
+&lt;p&gt;Cohesive vision and tight feedback-iteration loops provide the leverage small teams need against bigger and better-funded competitors. At our best we used this well.&lt;/p&gt;
+
+&lt;p&gt;There was still scope to enhance effectiveness with a more focused approach.&lt;/p&gt;
+
+&lt;h3 id=&quot;final-note&quot;&gt;Final note&lt;/h3&gt;
+&lt;p&gt;The inherent opportunities of a small team, making them available across the team and bringing the possibilities to life needs a strong force for good, we had them in Sameer, Kavita and the extended team.&lt;/p&gt;</content><author><name></name></author><summary type="html">Artoo has shutdown. 6 years of growing up under its influence has added to my value system and life experiences.</summary></entry></feed>
