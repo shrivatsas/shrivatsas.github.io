@@ -44,7 +44,7 @@ Next we walked around the big upper lake, on towards MP nagar to have some sumpt
 
 Day 2 plan, Rock Shelters of Bhimbetka and then to the Queen of Satpuras. As noted, depending on intercity bus transport is a bottomless pit in MP. Well we did not know better, we asked around and shuffled between bus stops. We finally did reach Obaidullagunj, a intersection on the highway, from there we took an auto to Bhimbetka. This was totally different to all the historical places i have visited, well yeah, because it is pre-historical. There wasn't much to click as the photographs would surely turn out grainy. I liked it and felt the journey was worth it, others perhaps not so much.
 
-<Boar chasing man>
+<!-- Boar chasing man -->
 
 It was Du time again, he had been stealthily passing subliminal messages all this time about taking a ride on the passing trucks. We approach one guy as the truck is ready to hum after another dhaba lunch. He is heading towards nagpur, and agrees to take us up. In the meantime the private bus which we were supposed to take passes us by, as we stare out our windows. We arrive slowly at Hoshangabad, the next big town. Its been one hour since the bus had passed us. We jump off the truck and run to the bus stand. Here the good deeds of our life await us, the bus is here in its first gear, ready to go, waiting for us. We reach Pipariya, the next town, its 8pm and the bus stops, hold your breadth, for 45 minutes. Now we know why this bus takes 6 hours to travel 200kms from bhopal to panchmarhi, crazy. We finally reached Panchmarhi, 10 or 11pm, we did not care any more. Went straight to Hotel Highlands and settled in.
 
