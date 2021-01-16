@@ -10,7 +10,7 @@ I have been meaning to write about the experiences for a long time but never cou
 
 I am now attempting to unravel this big ball of mud by unspooling threads of gratitude.
 
-I first came to hear Artoo, the name, through an acquaintance at a health initiative. The website had a young, cheerful presence, and they were looking for Android devs. Professionally I had been about 6 months into android. The interview process was all about relatedness to the purpose, belonging to the team, Sameer also brought in the rigor of persistent curiosity. The place felt different, and i jumped in.
+I first came to hear Artoo, the name, through an acquaintance at a health initiative. The website had a young, cheerful presence, and they were looking for Android devs. Professionally I had been about 6 months into android. The interview process was a lot about relatedness to the purpose, belonging to the team, Sameer also brought in the rigor of persistent curiosity. The place felt different in a good way, and i jumped in.
 
 Some strands which made Artoo for me,
 
@@ -18,7 +18,7 @@ Some strands which made Artoo for me,
 
 Empathy for the borrower, the field agent, our employees, and service providers, and self!
 
-Empathy sounds right, but is it the core of your actions and decisions. When each interaction and its effects matter, the way we design these interactions changes, as does our way of being and so do we. At Artoo, empathy was a lived value and defined interations inside and outside the team.
+Empathy sounds right, but at its core the daily deliberations, decisions and actions. When each interaction and its effects matter, the way we design these interactions changes, as does our way of being and so do we. At Artoo, empathy was a lived value and defined interations inside and outside the team.
 
 ### Openness and Ownership
 
@@ -30,7 +30,7 @@ Ownership was not explicitly defined, but an implicit assumption. This was 2 sid
 
 Artoo was always had an underlying thread of diversity, in terms of skills, gender, geography. A slight affirmative hint in our hiring policies added to it. We worked with C-Suites, Middle management, IT departments, Field staff; our internal diversity kept us in good stead.
 
-Interaction at an individual level was encouraged, enabling the gossip protocol to serve our clients better. Open offices with first come first pick seating might have something to do with this!
+Interaction at an individual level was encouraged, enabling the gossip protocol to serve our clients better. An Open office with first come first pick seating might have something to do with this!
 
 The parties, treks, off-road celebrations will always remain enjoyable memories.
 
@@ -52,3 +52,8 @@ There was still scope to enhance effectiveness with a more focused approach.
 
 ### Final note
 The inherent opportunities of a small team, making them available across the team and bringing the possibilities to life needs a strong force for good, we had them in Sameer, Kavita and the extended team.
+
+### Other takes from colleagues at Artoo
+https://twitter.com/kaushikb9/status/1302707444305469440  
+https://aparna-52912.medium.com/d1fc4d63feda  
+[Original Artoo Website](https://tender-heisenberg-6e14d2.netlify.app/)
