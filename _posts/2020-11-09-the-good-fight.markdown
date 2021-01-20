@@ -4,7 +4,7 @@ title:  "The Good fight"
 date:   2020-11-09 16:02:32 +0530
 categories: Companies Learning
 ---
-Artoo has shutdown. 6 years of growing up under its influence has added to my value system and life experiences.
+[Artoo](https://tender-heisenberg-6e14d2.netlify.app/) has shutdown. 6 years of growing up under its influence has added to my value system and life experiences.
 
 I have been meaning to write about the experiences for a long time but never could get my narrative device straight. Writing about a lived experience with its multi-layered multi-colored linkages is easy to procrastinate about till it melts away in our consciousness. 
 
@@ -12,7 +12,7 @@ I am now attempting to unravel this big ball of mud by unspooling threads of gra
 
 I first came to hear Artoo, the name, through an acquaintance at a health initiative. The website had a young, cheerful presence, and they were looking for Android devs. Professionally I had been about 6 months into android. The interview process was a lot about relatedness to the purpose, belonging to the team, Sameer also brought in the rigor of persistent curiosity. The place felt different in a good way, and i jumped in.
 
-Some strands which made Artoo for me,
+Some strands which made Artoo for me over these 5+ years,
 
 ### Empathy
 
@@ -54,6 +54,5 @@ There was still scope to enhance effectiveness with a more focused approach.
 The inherent opportunities of a small team, making them available across the team and bringing the possibilities to life needs a strong force for good, we had them in Sameer, Kavita and the extended team.
 
 ### Other takes from colleagues at Artoo
-https://twitter.com/kaushikb9/status/1302707444305469440  
-https://aparna-52912.medium.com/d1fc4d63feda  
-[Original Artoo Website](https://tender-heisenberg-6e14d2.netlify.app/)
+[Kaushik's tweet storm](https://twitter.com/kaushikb9/status/1302707444305469440)  
+[Aparna's all-encompassing take](https://aparna-52912.medium.com/d1fc4d63feda)
