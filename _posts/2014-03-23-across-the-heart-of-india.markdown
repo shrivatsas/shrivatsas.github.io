@@ -3,6 +3,7 @@ layout: post
 title:  "Across the heart of India"
 date:   2014-03-23 16:02:32 +0530
 categories: Travel
+published: false
 ---
 Our idea of the journey was a kind of semi-backpacking tour, ie. we would plan only for the next day. MP was too big for our 10 day schedule, we restricted our exploration to south and west of MP, the Satpura and Malwa regions. Let us see how we did.
 
